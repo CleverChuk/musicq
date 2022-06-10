@@ -1,2 +1,2 @@
-# musicq
+# qdot
 qdot
